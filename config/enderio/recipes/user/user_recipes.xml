@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  <recipe name="Spawner, Ice and Fire" required="false">
+    <spawning>
+	  <!-- Note: these are purely here to disable spawners and soul vials for ice and fire. The costs are not balanced -RelayGrid -->
+      <entity name="iceandfire:firedragon" costMultiplier="30.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:icedragon" costMultiplier="30.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:dragonskull" costMultiplier="30.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:snowvillager" costMultiplier="1.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:hippogryph" costMultiplier="2.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:gorgon" costMultiplier="20.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:if_pixie" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:siren" costMultiplier="20.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:cyclops" costMultiplier="20.0" disabled="true" soulvial="false"/>
+      <entity name="iceandfire:hippogryph" costMultiplier="2.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:hippocampus" costMultiplier="2.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:deathworm" costMultiplier="2.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:if_cockatrice" costMultiplier="2.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:stymphalianbird" costMultiplier="2.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:if_troll" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:myrmex_worker" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:myrmex_soldier" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:myrmex_sentinel" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:myrmex_royal" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:myrmex_queen" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:amphithere" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:seaserpent" costMultiplier="1.0" disabled="true" soulvial="false"/>
+    </spawning>
+  </recipe>
+</enderio:recipes>
