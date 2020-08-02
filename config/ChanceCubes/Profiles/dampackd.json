@@ -1,0 +1,26 @@
+{
+    "DAMPACKD": {
+        "name": "DAMPACKD ChanceCubes Profile",
+        "description": "Makes ChanceCubes less OP.",
+        "rewards_to_disable": [
+            "chancecubes:Beacon_Arena",
+            "chancecubes:Chuck_Reverse",
+            "chancecubes:Chunk_Flip",
+            "chancecubes:Woodland_Mansion",
+            "chancecubes:Beacon_Build",
+            "chancecubes:Coal_To_Diamonds",
+            "chancecubes:Giant_Chance_Cube",
+            "chancecubes:Heads_or_Tails",
+            "chancecubes:Item_Chest",
+            "chancecubes:Item_Of_Destiny",
+            "chancecubes:Matching",
+            "chancecubes:Math",
+            "chancecubes:Nuke",
+            "chancecubes:Question",
+            "chancecubes:Tic_Tac_Toe",
+            "extrautils2:Compressed_Cobble",
+            "extrautils2:Compressed_Netherrack",
+            "extrautils2:Compressed_Sand"
+        ]
+    }
+}
