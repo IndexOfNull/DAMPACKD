@@ -1,0 +1,4 @@
+- Fix bread recipe
+- Fix transfer pipe recipe
+- Fix dread_scuttler ice and fire not being blacklisted
+- Wonder why tf chancecubes ignores Item_Of_Destiny being false
