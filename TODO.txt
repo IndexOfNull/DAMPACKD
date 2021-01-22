@@ -1,4 +1,7 @@
 - Fix bread recipe
 - Fix transfer pipe recipe
 - Fix dread_scuttler ice and fire not being blacklisted
-- Wonder why tf chancecubes ignores Item_Of_Destiny being false
+- Wonder why tf chancecubes ignores Item_Of_Destiny being false [Needs version revert, config is broken on latest it seems]
+- maybe add more player models
+- look into soul generator viability
+- maybe remove thaumcraft
