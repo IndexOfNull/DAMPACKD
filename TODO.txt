@@ -1,7 +1,13 @@
+Fixes:
 - Fix bread recipe
 - Fix transfer pipe recipe
-- Fix dread_scuttler ice and fire not being blacklisted
 - Wonder why tf chancecubes ignores Item_Of_Destiny being false [Needs version revert, config is broken on latest it seems]
-- maybe add more player models
+- Blacklist dread_scuttler on Ice and Fire
+
+Balancing:
 - look into soul generator viability
-- maybe remove thaumcraft
+
+Additions/Removals:
++ [maybe] add more player models
++ [maybe] Its the little things (https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)
+- [maybe] remove thaumcraft
