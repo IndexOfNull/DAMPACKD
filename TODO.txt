@@ -7,7 +7,14 @@ Fixes:
 Balancing:
 - look into soul generator viability
 
-Additions/Removals:
-+ [maybe] add more player models
-+ [maybe] Its the little things (https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)
+Additions/Removals (+ = addition, - = removal, # = up for consideration):
++ [probably] Its the little things (https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)
+- [probably] remove KleeSlabs (not really worth it given its 1 main feature)
+# [definately] check out recurrent complex (https://www.curseforge.com/minecraft/mc-mods/recurrent-complex)
+# [unlikely] consider mystical agriculture
 - [maybe] remove thaumcraft
+- [maybe] remove doggytalents
++/- consider swapping Aether II for the first Aether mod
+- [maybe] consider removing powerconverters (flux networks could achieve this)
+- [maybe] consider removing GLASS
++ [maybe] add more player models
