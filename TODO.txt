@@ -18,3 +18,4 @@ Additions/Removals (+ = addition, - = removal, # = up for consideration):
 - [maybe] consider removing powerconverters (flux networks could achieve this)
 - [maybe] consider removing GLASS
 + [maybe] add more player models
++ [definitely] add ICBM
