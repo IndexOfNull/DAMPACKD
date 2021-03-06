@@ -1,0 +1,23 @@
+{
+    "initial_profile": {
+        "name": "DAMPACK'D Profile",
+        "description": "Profile that is auto enabled at the start of the pack.",
+        "rewards_to_disable": [
+            "chancecubes:beacon_arena",
+            "chancecubes:chuck_reverse",
+            "chancecubes:chunk_flip",
+            "chancecubes:woodland_mansion",
+            "chancecubes:beacon_build",
+            "chancecubes:coal_to_diamonds",
+            "chancecubes:giant_chance_cube",
+            "chancecubes:heads_or_tails",
+            "chancecubes:item_chest",
+            "chancecubes:item_of_destiny",
+            "chancecubes:matching",
+            "chancecubes:math",
+            "chancecubes:nuke",
+            "chancecubes:question",
+            "chancecubes:tic_tac_toe"
+        ]
+    }
+}

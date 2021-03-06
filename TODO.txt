@@ -1,7 +1,7 @@
 Fixes:
 - Fix bread recipe [done]
 - Fix transfer pipe recipe [done]
-- Wonder why tf chancecubes ignores Item_Of_Destiny being false [Needs version revert, config is broken on latest it seems]
+- Migrate to chancecube profiles [done, needs testing]
 - Blacklist dread_scuttler on Ice and Fire (enderio) [done]
 
 Balancing:
