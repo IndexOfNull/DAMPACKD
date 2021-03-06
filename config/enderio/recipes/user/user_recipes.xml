@@ -25,6 +25,7 @@
 	  <entity name="iceandfire:myrmex_queen" costMultiplier="1.0" disabled="true" soulvial="false"/>
 	  <entity name="iceandfire:amphithere" costMultiplier="1.0" disabled="true" soulvial="false"/>
 	  <entity name="iceandfire:seaserpent" costMultiplier="1.0" disabled="true" soulvial="false"/>
+	  <entity name="iceandfire:dread_scuttler" costMultiplier="1.0" disabled="true" soulvial="false"/>
     </spawning>
   </recipe>
 </enderio:recipes>
