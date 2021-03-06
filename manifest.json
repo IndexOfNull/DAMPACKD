@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "DAMPACK'D",
-  "version": "1.1.0",
+  "version": "1.2.0-rc1",
   "author": "RelayGrid",
   "projectID": 349464,
   "files": [
@@ -32,7 +32,7 @@
     },
     {
       "projectID": 232838,
-      "fileID": 2850338,
+      "fileID": 3228395,
       "required": true
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "projectID": 228404,
-      "fileID": 2844115,
+      "fileID": 3117927,
       "required": true
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "projectID": 222880,
-      "fileID": 2715788,
+      "fileID": 2926428,
       "required": true
     },
     {
@@ -112,12 +112,12 @@
     },
     {
       "projectID": 270789,
-      "fileID": 2623090,
+      "fileID": 2920436,
       "required": true
     },
     {
       "projectID": 69162,
-      "fileID": 2716100,
+      "fileID": 2920433,
       "required": true
     },
     {
@@ -127,17 +127,17 @@
     },
     {
       "projectID": 69163,
-      "fileID": 2715789,
+      "fileID": 2926431,
       "required": true
     },
     {
       "projectID": 230137,
-      "fileID": 2643920,
+      "fileID": 2751062,
       "required": true
     },
     {
       "projectID": 241291,
-      "fileID": 2856391,
+      "fileID": 3213697,
       "required": true
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "projectID": 271384,
-      "fileID": 2715784,
+      "fileID": 2920434,
       "required": true
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "projectID": 253005,
-      "fileID": 2465255,
+      "fileID": 3083325,
       "required": true
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "projectID": 229073,
-      "fileID": 2801266,
+      "fileID": 2960397,
       "required": true
     },
     {
@@ -202,12 +202,12 @@
     },
     {
       "projectID": 248020,
-      "fileID": 2842381,
+      "fileID": 3178199,
       "required": true
     },
     {
       "projectID": 231868,
-      "fileID": 2822401,
+      "fileID": 2972849,
       "required": true
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "projectID": 227443,
-      "fileID": 2716138,
+      "fileID": 2920505,
       "required": true
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "projectID": 223565,
-      "fileID": 2867186,
+      "fileID": 3051542,
       "required": true
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "projectID": 243076,
-      "fileID": 2745458,
+      "fileID": 2940914,
       "required": true
     },
     {
@@ -287,12 +287,12 @@
     },
     {
       "projectID": 235279,
-      "fileID": 2813538,
+      "fileID": 2915375,
       "required": true
     },
     {
       "projectID": 231382,
-      "fileID": 2867147,
+      "fileID": 3051539,
       "required": true
     },
     {
@@ -312,12 +312,12 @@
     },
     {
       "projectID": 224712,
-      "fileID": 2875678,
+      "fileID": 2916368,
       "required": true
     },
     {
       "projectID": 267602,
-      "fileID": 2832564,
+      "fileID": 2915363,
       "required": true
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "projectID": 284331,
-      "fileID": 2793580,
+      "fileID": 3029768,
       "required": true
     },
     {
@@ -382,7 +382,7 @@
     },
     {
       "projectID": 233113,
-      "fileID": 2883181,
+      "fileID": 3087611,
       "required": true
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2835289,
+      "fileID": 3157548,
       "required": true
     },
     {
@@ -487,7 +487,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2803400,
+      "fileID": 3040523,
       "required": true
     },
     {
@@ -532,7 +532,7 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2891572,
+      "fileID": 2985811,
       "required": true
     },
     {
@@ -577,7 +577,7 @@
     },
     {
       "projectID": 60092,
-      "fileID": 2712288,
+      "fileID": 2997915,
       "required": true
     },
     {
@@ -612,7 +612,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 2858816,
+      "fileID": 3124452,
       "required": true
     },
     {
