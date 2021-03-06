@@ -1,20 +1,26 @@
 Fixes:
-- Fix bread recipe
-- Fix transfer pipe recipe
+- Fix bread recipe [done]
+- Fix transfer pipe recipe [done]
 - Wonder why tf chancecubes ignores Item_Of_Destiny being false [Needs version revert, config is broken on latest it seems]
-- Blacklist dread_scuttler on Ice and Fire
+- Blacklist dread_scuttler on Ice and Fire (enderio) [done]
 
 Balancing:
-- look into soul generator viability
+- look into soul generator viability (making them 66% efficient) [in progress]
+- make ice and fire dragons even rarer
+- adjust dimension builder recipe to require less awakened draconium (10 -> 8 or 4 blocks, shoot for only 1-2 dragon defeats) [done]
+- maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)
+- maybe make vanilla ender chests harder to make
 
 Additions/Removals (+ = addition, - = removal, # = up for consideration):
 + [probably] Its the little things (https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)
 - [probably] remove KleeSlabs (not really worth it given its 1 main feature)
-# [definately] check out recurrent complex (https://www.curseforge.com/minecraft/mc-mods/recurrent-complex)
-# [unlikely] consider mystical agriculture
-- [maybe] remove thaumcraft
-- [maybe] remove doggytalents
+# [definitely] check out recurrent complex (https://www.curseforge.com/minecraft/mc-mods/recurrent-complex)
+# [probably] check out rats mod
+# [unlikely] consider mystical agriculture + maybe aggraditions
+# [probably] consider swapping thaumcraft for blood magic
+# [maybe] consider adding dynamic trees
+- [probably] remove doggytalents
 +/- consider swapping Aether II for the first Aether mod
 - [maybe] consider removing powerconverters (flux networks could achieve this)
-- [maybe] consider removing GLASS
-+ [maybe] add more player models
+- [probably] consider removing GLASS
++ [unlikely] add more player models
