@@ -22,8 +22,8 @@
 
 ### Additions
 + [ ] More splash texts! ***(in progress)***
-+ [ ] [highly likely] add [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex)
-+ [ ] [probably] check out rats mod
++ [ ] [highly likely] add [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) ***(in progress)***
++ [ ] [probably] check out rats mod ***(in progress)***
 + [ ] [maybe] consider adding dynamic trees
 + [ ] [unlikely] consider mystical agriculture + maybe aggraditions
 + [x] ~~[Its the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)~~
@@ -34,5 +34,5 @@
 - [x] ~~remove GLASS~~
 
 ### Other
-+ [ ] [probably] consider swapping Aether II for the first Aether mod
-+ [ ] [probably] consider swapping thaumcraft for blood magic
++ [ ] [probably] consider swapping Aether II for the first Aether mod (want to double checker Aether 2 first)
++ [ ] [probably] consider swapping thaumcraft for blood magic (preferably do this last, BM may require special balancing)
