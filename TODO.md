@@ -7,7 +7,7 @@
 - [x] ~~Blacklist dread_scuttler on Ice and Fire (enderio)~~
 
 ## Balancing:
-- [ ] kneecap ice and fire again ***(needs testing)***
+- [ ] kneecap ice and fire again ***(needs testing, make sure that no dragons spawn within 2000 blocks of each other)***
 - [ ] look into soul generator viability (making them 66% efficient) ***(done, needs testing)***
 - [x] ~~maybe all enderchests/pouches harder to make~~
 - [x] ~~make compact machines harder to make~~
