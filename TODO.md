@@ -7,7 +7,7 @@
 - [x] ~~Blacklist dread_scuttler on Ice and Fire (enderio)~~
 
 ## Balancing:
-- [ ] make ice and fire dragons even rarer
+- [ ] kneecap ice and fire again (needs testing)
 - [x] ~~maybe all enderchests/pouches harder to make~~
 - [ ] maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)
 - [ ] look into soul generator viability (making them 66% efficient) [done, needs testing]
@@ -16,7 +16,7 @@
 
 ## Features:
 + [ ] [probably] see about making custom structures with recurrent complex.
-+ [ ] maybe move this TODO into a markdown format
++ [x] ~~maybe move this TODO into a markdown format~~
 
 # Mod Changes
 
