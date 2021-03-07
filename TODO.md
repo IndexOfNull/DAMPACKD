@@ -8,10 +8,10 @@
 
 ## Balancing:
 - [ ] make ice and fire dragons even rarer
-- [ ] maybe make vanilla ender chests harder to make
+- [x] ~~maybe all enderchests/pouches harder to make~~
 - [ ] maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)
 - [ ] look into soul generator viability (making them 66% efficient) [done, needs testing]
-- [ ] make compact machines harder to make
+- [x] ~~make compact machines harder to make~~
 - [x] ~~adjust dimension builder recipe to require less awakened draconium (10 -> 8 or 4 blocks, shoot for only 1-2 dragon defeats)~~
 
 ## Features:
