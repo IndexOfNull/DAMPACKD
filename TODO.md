@@ -8,7 +8,7 @@
 
 ## Balancing:
 - [ ] kneecap ice and fire again ***(needs testing, make sure that no dragons spawn within 2000 blocks of each other)***
-- [ ] look into soul generator viability (making them 66% efficient) ***(done, needs testing)***
+- [x] ~~look into soul generator viability (making them 66% efficient) ***(done, needs testing)***~~
 - [x] ~~maybe all enderchests/pouches harder to make~~
 - [x] ~~make compact machines harder to make~~
 - [x] ~~adjust dimension builder recipe to require less awakened draconium (10 -> 8 or 4 blocks, shoot for only 1-2 dragon defeats)~~
