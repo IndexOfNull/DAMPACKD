@@ -12,7 +12,7 @@
 - [x] ~~maybe all enderchests/pouches harder to make~~
 - [x] ~~make compact machines harder to make~~
 - [x] ~~adjust dimension builder recipe to require less awakened draconium (10 -> 8 or 4 blocks, shoot for only 1-2 dragon defeats)~~
-- [ ] maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)
+- [ ] ~~maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)~~ ***(doesn't seem easily possible)***
 
 ## Features:
 + [ ] [probably] see about making custom structures with recurrent complex. (do this after RC1)
@@ -23,7 +23,7 @@
 ### Additions
 + [ ] More splash texts! ***(in progress)***
 + [ ] [highly likely] add [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) ***(in progress)***
-+ [ ] [probably] check out rats mod ***(in progress)***
++ [ ] ~~check out rats mod~~ ***(played it on another pack, don't want to deal with it right now)***
 + [ ] [maybe] consider adding dynamic trees
 + [ ] [unlikely] consider mystical agriculture + maybe aggraditions
 + [x] ~~[Its the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)~~
@@ -35,4 +35,7 @@
 
 ### Other
 + [ ] [probably] consider swapping Aether II for the first Aether mod (want to double checker Aether 2 first)
+    + [ ] check out Aether 1 expansion mods?
 + [ ] [probably] consider swapping thaumcraft for blood magic (preferably do this last, BM may require special balancing)
++ [ ] [definitely] make scripts to auto-assemble release profiles (client + server, with specific options for both)
++ [ ] make sure Galacticraft is updated (this is a must to comply with their terms of use)
