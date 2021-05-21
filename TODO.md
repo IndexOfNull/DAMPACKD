@@ -36,7 +36,7 @@
 
 ### Other
 + [x] [probably] consider swapping Aether II for the first Aether mod (want to double checker Aether 2 first)
-    + [ ] check out Aether 1 expansion mods?
+    + [ ] check out Aether 1 expansion mods? ***(be sure to see if Aether Continuation has a memory leak or not!)***
 + [ ] [probably] consider swapping thaumcraft for blood magic (preferably do this last, BM may require special balancing)
 + [x] [definitely] make scripts to auto-assemble release profiles (client + server, with specific options for both)
 + [x] make sure Galacticraft is updated (this is a must to comply with their terms of use)
