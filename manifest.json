@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "DAMPACK'D",
-  "version": "1.2.0-beta2",
+  "version": "1.2.0-beta3",
   "author": "RelayGrid",
   "projectID": 349464,
   "files": [
@@ -43,6 +43,11 @@
     {
       "projectID": 59621,
       "fileID": 3116599,
+      "required": true
+    },
+    {
+      "projectID": 256247,
+      "fileID": 2704832,
       "required": true
     },
     {
@@ -233,6 +238,11 @@
     {
       "projectID": 221857,
       "fileID": 2904825,
+      "required": true
+    },
+    {
+      "projectID": 294269,
+      "fileID": 3070803,
       "required": true
     },
     {
@@ -541,8 +551,8 @@
       "required": true
     },
     {
-      "projectID": 243298,
-      "fileID": 3116493,
+      "projectID": 246640,
+      "fileID": 2704562,
       "required": true
     },
     {
@@ -551,13 +561,18 @@
       "required": true
     },
     {
-      "projectID": 221585,
-      "fileID": 2492586,
+      "projectID": 243298,
+      "fileID": 3116493,
       "required": true
     },
     {
       "projectID": 230497,
       "fileID": 2450900,
+      "required": true
+    },
+    {
+      "projectID": 221585,
+      "fileID": 2492586,
       "required": true
     },
     {
@@ -581,13 +596,13 @@
       "required": true
     },
     {
-      "projectID": 238891,
-      "fileID": 2922489,
+      "projectID": 223852,
+      "fileID": 2952606,
       "required": true
     },
     {
-      "projectID": 223852,
-      "fileID": 2952606,
+      "projectID": 238891,
+      "fileID": 2922489,
       "required": true
     },
     {
@@ -606,8 +621,8 @@
       "required": true
     },
     {
-      "projectID": 79616,
-      "fileID": 2777813,
+      "projectID": 272335,
+      "fileID": 2645867,
       "required": true
     },
     {
@@ -616,8 +631,8 @@
       "required": true
     },
     {
-      "projectID": 242818,
-      "fileID": 2779848,
+      "projectID": 79616,
+      "fileID": 2777813,
       "required": true
     },
     {
@@ -626,18 +641,23 @@
       "required": true
     },
     {
+      "projectID": 242818,
+      "fileID": 2779848,
+      "required": true
+    },
+    {
       "projectID": 32274,
       "fileID": 2916002,
       "required": true
     },
     {
-      "projectID": 238372,
-      "fileID": 2595310,
+      "projectID": 225561,
+      "fileID": 2678374,
       "required": true
     },
     {
-      "projectID": 225561,
-      "fileID": 2678374,
+      "projectID": 238372,
+      "fileID": 2595310,
       "required": true
     },
     {
@@ -673,6 +693,11 @@
     {
       "projectID": 278494,
       "fileID": 3137883,
+      "required": true
+    },
+    {
+      "projectID": 318602,
+      "fileID": 3038185,
       "required": true
     }
   ],

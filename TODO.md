@@ -1,7 +1,7 @@
 # DAMPACK'D 1.2 to-do list
 
 ## Fixes:
-- [ ] Migrate to chancecube profiles ***(done, needs testing)***
+- [x] Migrate to chancecube profiles ***(chancecubes reports that rewards are disabled)***
 - [x] ~~Fix bread recipe~~
 - [x] ~~Fix transfer pipe recipe~~
 - [x] ~~Blacklist dread_scuttler on Ice and Fire (enderio)~~
@@ -16,6 +16,7 @@
 
 ## Features:
 + [ ] [probably] see about making custom structures with recurrent complex. (do this after RC1)
++ [ ] new main menu backgrounds (do after everything else is done)
 + [x] ~~maybe move this TODO into a markdown format~~
 
 # Mod Changes
@@ -24,7 +25,7 @@
 + [x] More splash texts! ***(done adding more, for now)***
 + [ ] [highly likely] add [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex) ***(in progress)***
 + [-] ~~check out rats mod~~ ***(played it on another pack, don't want to deal with it right now)***
-+ [ ] [maybe] consider adding dynamic trees
++ [-] [maybe] consider adding dynamic trees ***(going to pass for now, may consider later)***
 + [ ] [unlikely] consider mystical agriculture + maybe aggraditions
 + [x] ~~[Its the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)~~
 

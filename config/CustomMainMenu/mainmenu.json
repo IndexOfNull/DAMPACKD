@@ -122,6 +122,19 @@
                 "type":"openGui",
                 "gui":"languages"
             }
+        },
+        "refresh":
+        {
+            "text" : "",
+			"texture" : "custommainmenu:textures/gui/refresh.png",
+            "posX" : 104,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "refresh"
+            }
         }
     },
     
@@ -155,7 +168,7 @@
             "alignment":"bottom_left"
         },
         "modpack":{
-            "text":"DAMPACK'D v1.1",
+            "text":"DAMPACK'D v1.2.0 - Beta 3",
             "posX":3,
             "posY":-22,
             "color":-1,
