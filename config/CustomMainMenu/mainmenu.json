@@ -32,7 +32,7 @@
             "width" : 200,
             "height" : 20,
 			"alignment" : "center",
-			"hoverTextColor": 16608301,
+			"hoverTextColor": 10984132,
             "action" : 
             {
                 "type" : "openGui",
@@ -49,7 +49,7 @@
             "width" : 200,
             "height" : 20,
 			"alignment" : "center",
-			"hoverTextColor": 16608301,
+			"hoverTextColor": 10984132,
             "action" : 
             {
                 "type" : "openGui",
@@ -66,7 +66,7 @@
             "width" : 200,
             "height" : 20,
 			"alignment" : "center",
-			"hoverTextColor": 16608301,
+			"hoverTextColor": 10984132,
             "action" : 
             {
                 "type" : "openGui",
@@ -83,7 +83,7 @@
             "width" : 98,
             "height" : 20,
 			"alignment" : "center",
-			"hoverTextColor": 16608301,
+			"hoverTextColor": 10984132,
             "action" : 
             {
                 "type" : "openGui",
@@ -100,7 +100,7 @@
             "width" : 98,
             "height" : 20,
 			"alignment" : "center",
-			"hoverTextColor": 16608301,
+			"hoverTextColor": 10984132,
             "action" : 
             {
                 "type" : "quit"
@@ -198,8 +198,36 @@
             "texts" : "file:mainmenu:splashes.txt"
         },
         "background":{
-            "image":"mainmenu:images/bg3.png",
-            "mode":"fill"
+            "image":"",
+            "slideshow": {
+                "images": [
+                    "mainmenu:images/bg/1.png",
+                    "mainmenu:images/bg/2.png",
+                    "mainmenu:images/bg/3.png",
+                    "mainmenu:images/bg/4.png",
+                    "mainmenu:images/bg/5.png",
+                    "mainmenu:images/bg/6.png",
+                    "mainmenu:images/bg/7.png",
+                    "mainmenu:images/bg/8.png",
+                    "mainmenu:images/bg/9.png",
+                    "mainmenu:images/bg/10.png",
+                    "mainmenu:images/bg/11.png",
+                    "mainmenu:images/bg/12.png",
+                    "mainmenu:images/bg/13.png",
+                    "mainmenu:images/bg/14.png",
+                    "mainmenu:images/bg/15.png",
+                    "mainmenu:images/bg/16.png",
+                    "mainmenu:images/bg/17.png",
+                    "mainmenu:images/bg/18.png",
+                    "mainmenu:images/bg/19.png",
+                    "mainmenu:images/bg/20.png",
+                    "mainmenu:images/bg/21.png",
+                    "mainmenu:images/bg/22.png"
+                ],
+				"displayDuration" : 250,
+				"fadeDuration" : 85,
+				"shuffle" : true
+            }
         }
     }
 }
