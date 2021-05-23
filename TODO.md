@@ -7,7 +7,7 @@
 - [x] ~~Blacklist dread_scuttler on Ice and Fire (enderio)~~
 
 ## Balancing:
-- [ ] kneecap ice and fire again ***(needs testing, make sure that no dragons spawn within close to each other)***
+- [x] kneecap ice and fire again ***(needs testing, make sure that no dragons spawn within close to each other)***
 - [x] ~~look into soul generator viability (making them 66% efficient) ***(done, needs testing)***~~
 - [x] ~~maybe all enderchests/pouches harder to make~~
 - [x] ~~make compact machines harder to make~~
@@ -26,7 +26,8 @@
 + [x] [highly likely] add [recurrent complex](https://www.curseforge.com/minecraft/mc-mods/recurrent-complex)
 + [-] ~~check out rats mod~~ ***(played it on another pack, don't want to deal with it right now)***
 + [-] [maybe] consider adding dynamic trees ***(going to pass for now, may consider later)***
-+ [ ] [unlikely] consider mystical agriculture + maybe aggraditions
++ [x] ~~[unlikely] consider mystical agriculture + maybe aggraditions~~ (added)
+    + [ ] Make supremium stuff harder to get
 + [x] ~~[Its the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)~~
 
 ### Removals
@@ -36,7 +37,7 @@
 
 ### Other
 + [x] [probably] consider swapping Aether II for the first Aether mod (want to double checker Aether 2 first)
-    + [ ] check out Aether 1 expansion mods? ***~~(be sure to see if Aether Continuation has a memory leak or not!)~~ (seems okay)***
-+ [ ] [probably] consider swapping thaumcraft for blood magic (preferably do this last, BM may require special balancing)
+    + [x] check out Aether 1 expansion mods? ***(went with Lost Content only)***
++ [-] ~~[probably] consider swapping thaumcraft for blood magic (preferably do this last, BM may require special balancing)~~ ***(the blood magic guide is 144 pages long, maybe check it out in 1.3 instead?)***
 + [x] [definitely] make scripts to auto-assemble release profiles (client + server, with specific options for both)
 + [x] make sure Galacticraft is updated (this is a must to comply with their terms of use)

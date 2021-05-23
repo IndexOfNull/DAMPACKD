@@ -122,19 +122,6 @@
                 "type":"openGui",
                 "gui":"languages"
             }
-        },
-        "refresh":
-        {
-            "text" : "",
-			"texture" : "custommainmenu:textures/gui/refresh.png",
-            "posX" : 104,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "refresh"
-            }
         }
     },
     
