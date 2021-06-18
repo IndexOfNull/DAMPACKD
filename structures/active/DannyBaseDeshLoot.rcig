@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "DannyBase",
+  "items": [
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "galacticraftplanets:item_basic_mars",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0068187713623047,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:string",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 14,
+      "item": {
+        "id": "galacticraftplanets:mars",
+        "damage": 9,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraplanets:anti_radiation",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:paper",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}
