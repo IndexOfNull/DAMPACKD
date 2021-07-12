@@ -155,7 +155,7 @@
             "alignment":"bottom_left"
         },
         "modpack":{
-            "text":"DAMPACK'D v1.2.0 - Beta 3",
+            "text":"DAMPACK'D v1.2.0 - Release Candidate 1",
             "posX":3,
             "posY":-22,
             "color":-1,
@@ -164,14 +164,21 @@
             "alignment":"bottom_left"
         },  
         "credit":{
-            "text":"Pack by Dk. Special thanks to Matt.",
+            "text":"Pack by RelayGrid (Dk)",
+            "posX":-35,
+            "posY":-17,
+            "color":-1,
+            "fontSize":0.6,
+            "alignment":"bottom_center"
+        },
+        "thanks":{
+            "text":"Special thanks to Matt and Danny",
             "posX":-50,
             "posY":-10,
             "color":-1,
-            "hoverColor":10984132,
             "fontSize":0.6,
             "alignment":"bottom_center"
-        }  
+        }
     },
     
     "other":
