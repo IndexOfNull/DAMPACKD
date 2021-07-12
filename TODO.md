@@ -15,7 +15,7 @@
 - [-] ~~maybe tweak draconic oregen (perhaps less common in end, spawn more primarly through galacticraft?)~~ ***(doesn't seem easily possible)***
 
 ## Features:
-+ [ ] [probably] see about making custom structures with recurrent complex. (do this after RC1)
++ [x] [probably] see about making custom structures with recurrent complex. (do this after RC1)
 + [x] new main menu backgrounds (do after everything else is done)
 + [x] ~~maybe move this TODO into a markdown format~~
 
@@ -27,7 +27,7 @@
 + [-] ~~check out rats mod~~ ***(played it on another pack, don't want to deal with it right now)***
 + [-] [maybe] consider adding dynamic trees ***(going to pass for now, may consider later)***
 + [x] ~~[unlikely] consider mystical agriculture + maybe aggraditions~~ (added)
-    + [ ] Make supremium stuff harder to get
+    + [x] Make supremium stuff harder to get (wound up removing all tools and fun items; crops only!)
 + [x] ~~[Its the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/files)~~
 
 ### Removals
