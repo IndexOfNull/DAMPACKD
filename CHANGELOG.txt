@@ -1,1 +1,18 @@
-- Revert ChanceCubes to 4.1.0.300
+DAMPACK'D 1.2.0
+
+- Migrated to ChanceCubes profile system
+- The recipe for bread now works as expected
+- The recipe for transfer pipes give you 16 instead of 64
+- Dread scuttlers have been blacklisted from soul vials
+- Ice and Fire has been nerfed
+- Soul generators have been nerfed
+- Enderchests and enderpouches are harder to make
+- Compact machines are harder to make
+- Dimensions builders are easier to make and don't require as much investment into Draconic Evolution.
+- Five new custom structures have been added
+- The main menu has been changed (again). There are also more splash texts now.
+- Mystical Agriculture and Mystical Agradditions have been added (seeds only, no tools)
+- KleeSlabs, PowerConverters, and GLASS have been removed.
+- The Aether II mod was swapped for Aether Legacy. Aether: Lost Content has also been added.
+- Immersive railroading no longer has issues with teleporting.
+- Some mods have been updated to newer versions.

@@ -21,4 +21,7 @@ Pro Tips:
     - Use TickCentral 3.2
     - Use SpongeForge 1.12.2-2838-7.3.1-RC4082
 
-    
+    You probably want to make the following edits to your server.properties file (decreases lag and crashes):
+    - max-tick-time needs to be increased by a large amount. I set mine to 300000 (five minutes), but thats even a bit high.
+    - view-distance needs to be lowered to about 6 or 7. You can try mods like Dynamic View but it's untested.
+    - You probably want to set level-type to BIOMESOP
