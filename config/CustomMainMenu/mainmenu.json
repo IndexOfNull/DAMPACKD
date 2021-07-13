@@ -155,7 +155,7 @@
             "alignment":"bottom_left"
         },
         "modpack":{
-            "text":"DAMPACK'D v1.2.0 - Release Candidate 2",
+            "text":"DAMPACK'D v1.2.0",
             "posX":3,
             "posY":-22,
             "color":-1,
