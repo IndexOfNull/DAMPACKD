@@ -60,6 +60,10 @@ recipes.addShaped(<compactmachines3:psd>, [
     [<minecraft:nether_star>, <minecraft:iron_ingot>, <minecraft:nether_star>]
 ]);
 
+//Remove Actually Additions ring of growth
+JEI.removeAndHide(<actuallyadditions:item_growth_ring>);
+
+//Remove mystical agriculture/agradditions tools
 JEI.removeAndHide(<mysticalagradditions:inferium_paxel>);
 JEI.removeAndHide(<mysticalagradditions:prudentium_paxel>);
 JEI.removeAndHide(<mysticalagradditions:intermedium_paxel>);
